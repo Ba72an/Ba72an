@@ -1,8 +1,8 @@
-[![Ba72an's GitHub Banner](./assets/githubBanner.png)
+![Ba72an's GitHub Banner](./assets/githubBanner.png)
 
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/Ba72an/Ba72an)
+![Visits Badge](https://badges.pufler.dev/visits/Ba72an/Ba72an)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Ba72an)
 
