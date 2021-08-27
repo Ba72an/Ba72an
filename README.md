@@ -28,7 +28,7 @@
 
 <br>
 
-> ### Want to know how I made this README?
+> Want to know how I made this README?
 >
 > Check out this [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/) from [Braydon Coyer](https://github.com/braydoncoyer)!
 
