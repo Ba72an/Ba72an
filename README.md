@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=orange&color=FF4C29)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=9cf&color=2965f1)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=FFD523)
-![](https://img.shields.io/badge/IT_Certs-Credly-informational?style=flat&color=FF2626&link=https://www.credly.com/users/ba72an/badges)
+[![IT Badges](https://img.shields.io/badge/IT_Certs-Credly-informational?style=flat&color=FF2626)](https://www.credly.com/users/ba72an/badges)
 
 <br>
 
