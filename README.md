@@ -29,7 +29,7 @@
 
 > ### Want to know how I made this README?
 >
-> Check out this [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/) from [Braydon Coyer's](https://github.com/braydoncoyer)!
+> Check out this [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/) from [Braydon Coyer](https://github.com/braydoncoyer)!
 
 <!--
 **Ba72an/Ba72an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
