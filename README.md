@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Ba72an's GitHub Banner](./assets/githubBanne.png)]
+
 <!--
 **Ba72an/Ba72an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
